@@ -1,5 +1,5 @@
 Sample Todo app 
-============
+=============
 
 Using ASP.NET Core, Enity Framework Core, TypeScript and React/Redux. This is the Sample app for use at the Let's do CI/CD workshop.
 
@@ -18,5 +18,6 @@ Run `npm run webpack-production` to build the production JS.
 ## Tests
 
 Run `npm run test`.
+
 
 
